@@ -1,7 +1,7 @@
 # ADXL345
 Arduino code for the ADXL345 accelerometer 
 
-For complete hookup and tutorial see: http://adam-meyer.com/arduino/adxl345-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/ADXL335
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
